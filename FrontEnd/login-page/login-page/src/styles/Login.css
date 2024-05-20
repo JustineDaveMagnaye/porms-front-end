@@ -101,5 +101,9 @@ form .register-link{
     color: #03254c;
 }
 
+.error-message {
+    color: red;
+    font-size: 10px;
+}
 
 
